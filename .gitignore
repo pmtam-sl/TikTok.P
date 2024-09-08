@@ -90,6 +90,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Quarto pub
+_publish.yml
+
 # IPython
 profile_default/
 ipython_config.py
